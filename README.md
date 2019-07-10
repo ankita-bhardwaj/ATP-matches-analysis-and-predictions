@@ -24,3 +24,17 @@
 - How many times have the dark horses won? 
 - What’s the future of tennis? 
 - What affects a match win the most? Can we accurately predict match wins? 
+
+# Prediction Accuracies:
+- US Open : 71.19%
+- Wimbledon: 69.01%
+- French Open: 70.3%
+- Australian Open- 69.2%
+
+# Relevant Features for prediction:
+Based on the p value of the independent variables, following features came out to be important:
+- US Open- Rank, Age and Height of the players
+- Wimbledon- Rank and Height of the players
+- French Open- Rank and Age of the players
+- Australian Open- Rank of the players
+
