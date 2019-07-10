@@ -1,6 +1,7 @@
 # ATP-matches-analysis-and-predictions
 
 # About the data used:
+- Data can be downloaded from: https://www.kaggle.com/sijovm/atpdata (ATP.csv)
 - Data collected from Jeff Sackmann’s repository on Github u Data from ATP Masters and Grand Slam tours for men’s singles matches. 
 - Columns for player file columns are player_id, first_name, last_name, hand, birth_date, country_code.
 - The columns for the ranking are ranking_date, ranking, player_id, ranking_points.
